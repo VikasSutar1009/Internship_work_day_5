@@ -1,0 +1,25 @@
+.container {
+    width: 100%;   
+    margin: 40px;
+    text-align: center;
+}
+
+table{
+    width: 100%;
+    border: 1px solid black;
+}
+
+th {
+    background: #2c4763;
+    color: #ccc;
+    padding: 10px;
+}
+
+td{
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+tr:hover {
+    background-color: #f3eaea;
+}
